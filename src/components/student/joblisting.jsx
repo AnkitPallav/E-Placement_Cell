@@ -609,7 +609,7 @@ const JobCard = ({ job, studentProfile, onApply, hasApplied }) => {
 };
 
 
-// Application Modal Component
+// Application Model Component
 const ApplicationModal = ({ isOpen, onClose, onSubmit, job }) => {
   const [resume, setResume] = useState(null);
   const [coverLetter, setCoverLetter] = useState('');
