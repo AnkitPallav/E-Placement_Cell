@@ -349,7 +349,7 @@ const PracticeCorner = () => {
       
       <div className="mt-8 flex justify-center">
         <button
-          className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition duration-200"
+          className="px-6 py-2 bg-blue-800 text-white rounded-md hover:bg-blue-700 transition duration-250"
           onClick={startOver}
         >
           Practice Again
